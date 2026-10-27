@@ -33,15 +33,15 @@
   },
   "dependencies": {
     "qrcode": "^1.5.4",
-    "uuid": "^11.1.0",
-    "ws": "^8.18.0"
+    "uuid": "^14.0.3",
+    "ws": "^8.22.0"
   },
   "devDependencies": {
-    "@types/node": "^22.13.0",
+    "@types/node": "^26.6.5",
     "@types/qrcode": "^1.5.5",
-    "@types/ws": "^8.18.1",
-    "typescript": "^5.6.3",
-    "vitest": "^3.0.0"
+    "@types/ws": "^8.18.2",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.5"
   },
   "engines": {
     "node": ">=22.19.0"
